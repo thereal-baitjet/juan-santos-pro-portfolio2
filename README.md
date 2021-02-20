@@ -9,8 +9,7 @@ Open https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/ on you browse
 ## usage 
 get to know me and get in to contact
 
-![screen shot](assets/images/screenshot.png) <!--dont forget to edit this -->
-
+![screen shot](https://github.com/thereal-baitjet/juan-santos-pro-portfolio2/blob/main/2021-02-19-21-30-thereal-baitjet.github.io.png) 
 ## credits
 
 https://www.w3schools.com/w3css/tryw3css_templates_dark_portfolio.htm
@@ -41,5 +40,8 @@ SOFTWARE.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/juan-santos-8380b0186/)
 
+Link to Deploye page https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/
+
+link to repo https://github.com/thereal-baitjet/juan-santos-pro-portfolio2
 
 
