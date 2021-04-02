@@ -40,7 +40,7 @@ SOFTWARE.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/juan-santos-8380b0186/)
 
-Link to Deploye page https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/
+Link to Deployed page https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/
 
 link to repo https://github.com/thereal-baitjet/juan-santos-pro-portfolio2
 
