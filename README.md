@@ -9,7 +9,7 @@ Open https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/ on you browse
 ## usage 
 get to know me and get in to contact
 
-![screen shot](https://github.com/thereal-baitjet/juan-santos-pro-portfolio2/blob/main/2021-02-19-21-30-thereal-baitjet.github.io.png) 
+![screen shot](https://github.com/thereal-baitjet/juan-santos-pro-portfolio2/blob/main/2021-04-03-13-49-thereal-baitjet.github.io.png) 
 ## credits
 
 https://www.w3schools.com/w3css/tryw3css_templates_dark_portfolio.htm
