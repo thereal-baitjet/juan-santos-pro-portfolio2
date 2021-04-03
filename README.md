@@ -9,6 +9,11 @@ Open https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/ on you browse
 ## usage 
 get to know me and get in to contact
 
+My Email is baitjet@icloud.com
+Phone Number: 201-450-5416
+Linkedin: www.linkedin.com/in/Juanga-Santos
+
+
 ![screen shot](https://github.com/thereal-baitjet/juan-santos-pro-portfolio2/blob/main/2021-04-03-13-49-thereal-baitjet.github.io.png) 
 ## credits
 
@@ -43,5 +48,7 @@ SOFTWARE.
 Link to Deployed page https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/
 
 link to repo https://github.com/thereal-baitjet/juan-santos-pro-portfolio2
+
+
 
 
