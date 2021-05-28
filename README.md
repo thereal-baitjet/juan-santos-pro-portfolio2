@@ -1,7 +1,9 @@
 # juan-santos-pro-portfolio2
 
 ## Description
-Created a portfolio page with contacts resume work examples and a recent picture. I w3schools.com template and changed unnecessary aspects added my work examples. made a section for the first example in order to have it size larger. added titles to the projects of place holder until i have more projects. made links live. added a second poage with a resume. linked it with a button. deleted footer and implemnted a footer. resized and styled footer to look good on all size. it disappears under 500px, and leaves a link to my Linkedin. In my about me, i put a provisional brand statement. 
+Created a portfolio page with contacts resume work examples and a recent picture. I used a w3schools.com template and changed unnecessary aspects added my work examples. made a section for the first example in order to have it size larger. added titles to the projects of place holder until i have more projects. made links live. added a second poage with a resume. linked it with a button. deleted footer and implemnted a footer. resized and styled footer to look good on all size. it disappears under 500px, and leaves a link to my Linkedin. In my about me, i put a provisional brand statement. 
+
+technologies used: HTML and CSS.
 
 ## Installation
 Open https://thereal-baitjet.github.io/juan-santos-pro-portfolio2/ on you browser.
